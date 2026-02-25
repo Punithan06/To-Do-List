@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+venv/
+.venv/
+env/
+.env
+
+# Build outputs
+dist/
+frontend/dist/
+build/
+.next/
+out/
+
+# Database
+*.sqlite3
+db.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
